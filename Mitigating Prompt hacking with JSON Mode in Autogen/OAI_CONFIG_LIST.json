@@ -1,0 +1,4 @@
+[
+    {"model": "gpt-4-turbo-preview", "api_key": api, "response_format": {"type": "text"}},
+    {"model": "gpt-4-0125-preview", "api_key": api, "response_format": {"type": "json_object"}}
+]
